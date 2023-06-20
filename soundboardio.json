@@ -13,7 +13,7 @@
   "icons": [
     {
       "src": "/icons/icon32.png",
-      "sizes": "48x48",
+      "sizes": "32x32",
       "purpose": "maskable any",
       "type": "image/png"
     },
