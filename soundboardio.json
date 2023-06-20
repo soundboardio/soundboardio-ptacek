@@ -12,14 +12,14 @@
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/icon-48.png",
+      "src": "/icons/icon32.png",
       "sizes": "48x48",
-      "purpose": "48x48",
+      "purpose": "maskable any",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon.png",
-      "sizes": "144x144",
+      "src": "/icons/icon128.png",
+      "sizes": "128x128",
       "type": "image/png"
     }
   ],
