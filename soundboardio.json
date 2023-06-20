@@ -1,0 +1,156 @@
+{
+  "name": "Pražský úchyl",
+  "shortName": "Ptáček",
+  "description": "Neřikej mi zmrde!",
+  "color": "#A020F0",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Tompicek",
+    "url": "https://www.instagram.com/tompicek/"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Bramborák",
+      "filename": "Bramborak.mp3"
+    },
+    {
+      "name": "Brašna nebrašna",
+      "filename": "BrasnaNebrasna.mp3"
+    },
+    {
+      "name": "Jí vomrdáš",
+      "filename": "JiVomrdas.mp3"
+    },
+    {
+      "name": "Ji vylížu, vomrdám",
+      "filename": "JiVylizuVomrdam.mp3"
+    },
+    {
+      "name": "Kdo takovouhle píčovinu říkal?",
+      "filename": "KdoTakovouhlePicovinuRikal.mp3"
+    },
+    {
+      "name": "Koláč",
+      "filename": "Kolac.mp3"
+    },
+    {
+      "name": "Kolik měří?",
+      "filename": "KolikMeri.mp3"
+    },
+    {
+      "name": "Lomená, to mi něco říká",
+      "filename": "LomenaToMiNecoRika.mp3"
+    },
+    {
+      "name": "Mám to v popisu práce",
+      "filename": "MamToVPopisuPrace.mp3"
+    },
+    {
+      "name": "Máš rád chlapy?",
+      "filename": "MasRadChlapy.mp3"
+    },
+    {
+      "name": "Měl jsem tam jednu šlapku",
+      "filename": "MelJsemTamJednuSlapku.mp3"
+    },
+    {
+      "name": "Na baráku",
+      "filename": "NaBaraku.mp3"
+    },
+    {
+      "name": "Neděláš u policie?",
+      "filename": "NedelasUPolicie.mp3"
+    },
+    {
+      "name": "Neříkej mi zmrde",
+      "filename": "NerikejMiZmrde.mp3"
+    },
+    {
+      "name": "Nikdy jsem nebyl proti",
+      "filename": "NikdyJsemNebylProti.mp3"
+    },
+    {
+      "name": "Ona byla spokojená",
+      "filename": "OnaBylaSpokojena.mp3"
+    },
+    {
+      "name": "Ona se vohne",
+      "filename": "OnaSeVohne.mp3"
+    },
+    {
+      "name": "Pastelky",
+      "filename": "Pastelky.mp3"
+    },
+    {
+      "name": "Píču i s prdelí",
+      "filename": "PicuISPrdeli.mp3"
+    },
+    {
+      "name": "Ptáčkovi je 56",
+      "filename": "PtackoviJe56.mp3"
+    },
+    {
+      "name": "Řekni do kamery",
+      "filename": "RekniDoKamery.mp3"
+    },
+    {
+      "name": "Říkala mi bejku",
+      "filename": "RikalaMiBejku.mp3"
+    },
+    {
+      "name": "Specialista",
+      "filename": "Specialista.mp3"
+    },
+    {
+      "name": "Stačí",
+      "filename": "Staci.mp3"
+    },
+    {
+      "name": "TaaakTreba",
+      "filename": "TaaakTreba.mp3"
+    },
+    {
+      "name": "To je jednoduchý",
+      "filename": "ToJeJednoduchy.mp3"
+    },
+    {
+      "name": "To nemá chybu",
+      "filename": "ToNemaChybu.mp3"
+    },
+    {
+      "name": "Ty rakovino",
+      "filename": "TyRakovino.mp3"
+    },
+    {
+      "name": "Ty si se oholil",
+      "filename": "TySiSeOholil.mp3"
+    },
+    {
+      "name": "Ukaž ptáčka",
+      "filename": "UkazPtacka.mp3"
+    },
+    {
+      "name": "Vojeď tu lampu",
+      "filename": "VojedTuLampu.mp3"
+    },
+    {
+      "name": "Zezadu, zepředu, nahoru a dolu",
+      "filename": "ZezaduZepreduNahoruADolu.mp3"
+    }
+  ]
+}
