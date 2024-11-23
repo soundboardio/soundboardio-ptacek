@@ -3,13 +3,14 @@
   "shortName": "Ptáček",
   "description": "Neřikej mi zmrde!",
   "color": "#A020F0",
+  "story": "Pan Perníček aka \"Pražský úchyl\" aka \"Ptáček\" diktuje svoje moudra v Chebu.",
   "rootUrl": "sounds/",
   "author": {
     "name": "Tompicek",
     "url": "https://www.instagram.com/tompicek/"
   },
   "lang": "cs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": [
     {
       "src": "/icons/icon32.png",
@@ -151,6 +152,14 @@
     {
       "name": "Zezadu, zepředu, nahoru a dolu",
       "filename": "ZezaduZepreduNahoruADolu.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Pražský úchyl (Ptáček). Mám pro tebe holku, fakt raketu",
+      "url": "https://www.youtube.com/watch?v=HnkqCyBteUw",
+      "source": "YouTube",
+      "year": 2021
     }
   ]
 }
