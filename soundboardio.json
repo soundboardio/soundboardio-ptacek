@@ -3,7 +3,8 @@
   "shortName": "Ptáček",
   "description": "Neřikej mi zmrde!",
   "color": "#A020F0",
-  "story": "Pan Milan Perníček aka \"Pražský úchyl\" aka \"Ptáček\" diktuje svoje životní moudra v Chebu.",
+  "story": "Milan Perníček alias Ptáček z Chebu nebo Pražský úchyl rozdává životní moudra.",
+  "tags": ["Ptáček z Chebu", "Úchyl z Chebu", "Milan Perníček"],
   "rootUrl": "sounds/",
   "author": {
     "name": "Tompicek",
